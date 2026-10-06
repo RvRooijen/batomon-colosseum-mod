@@ -1,0 +1,11 @@
+[title]
+file="title.ogg"
+loop_start=0.0
+
+[battle]
+file="battle.ogg"
+loop_start=0.0
+
+[victory]
+file="victory.ogg"
+loop_start=0.0
